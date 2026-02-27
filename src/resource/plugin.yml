@@ -1,0 +1,11 @@
+name: ParticleAdorn
+main: TiXYA2357.ParticleAdorn.Main
+description: 粒子商店系统
+author: TiXYA2357
+version: 1.0.0-End
+api: [1.0.0]
+load: STARTUP
+
+softdepend:
+  - EconomyAPI
+    
